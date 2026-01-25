@@ -1,4 +1,4 @@
-# password-manager-java
+# password-manager
 > A lightweight terminal-based password manager developed in Java.
 
 This project provides a quick and efficient way to store and manage non-important passwords directly from your terminal, utilizing Base64 for basic data obfuscation.
