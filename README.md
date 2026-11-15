@@ -59,10 +59,12 @@ Note: This application uses *Base64 encoding* for password storage.
 
 ## Project Structure
 
-- password-manager-java/: # parent folder
-- src/:          Human-readable .java source files
-- bin/:          Compiled .class bytecode (generated at build)
-- README.md:     Project documentation
+```text
+password-manager/
+├── src/        Java source files
+├── bin/        Compiled .class files (created when you build)
+└── README.md
+```
 
 ---
 

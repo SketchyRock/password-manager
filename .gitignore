@@ -25,3 +25,7 @@ replay_pid*
 
 .vscode/
 bin/
+
+# Compiled output
+bin/
+*.jar
